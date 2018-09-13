@@ -1,0 +1,22 @@
+{
+  "name": "movernationv2-node_back",
+  "version": "1.0.0",
+  "description": "MoverNation V2 Node-Js backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierDelattre/MoverNationV2-back_node.git"
+  },
+  "author": "Xavier Delattre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierDelattre/MoverNationV2-back_node/issues"
+  },
+  "homepage": "https://github.com/XavierDelattre/MoverNationV2-back_node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
